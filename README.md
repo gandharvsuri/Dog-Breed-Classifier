@@ -2,7 +2,7 @@
 
 ## Data
 Sample images.
-![alt text](https://github.com/gandharvsuri/Dog-Breed-Classifier/Images/blob/master/image.jpg?raw=true)
+![Alt text](./Images/Curly-coated_retriever_03896.jpg?raw=true)
 ## Model
 CNN based transfer learning. 
 
