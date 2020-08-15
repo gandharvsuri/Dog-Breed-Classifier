@@ -1,8 +1,9 @@
 # DOG BREED CLASSIFIER
 
 ## Data
-Sample images.
+
 ![Alt text](./Images/Curly-coated_retriever_03896.jpg?raw=true)
+
 ## Model
 CNN based transfer learning. 
 
